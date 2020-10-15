@@ -1,0 +1,2 @@
+# pokecord
+Bot development
